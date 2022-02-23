@@ -24,6 +24,6 @@ const markeItem = marker([48.87045, 2.37273]).addTo(map);
 map.fitBounds ([
   [markeItem.getLatLng().lat,markeItem.getLatLng().lng]
 ]);
-
+//End.
   }
 }
